@@ -2,9 +2,9 @@
 
 A modern portfolio project for a Quantitative Analyst in the crypto space. This dashboard showcases:
 
-- **Real-Time Crypto Prices** (BTC, ETH, ADA, MATIC, SOL, XRP, DOGE, BNB, SUI)
-- **RTP (Return to Player) Simulation**
-- **Suspicious Activity Detection**
+- **Real-Time Crypto Prices: for market insight (BTC, ETH, ADA, MATIC, SOL, XRP, DOGE, BNB, SUI)**
+- **RTP (Return to Player) Simulation: for predictive models in game economy/DeFi**
+- **Suspicious Activity Detection: for anti-bot & protection system**
 
 ## Features
 - Fetches real-time prices from CoinGecko API
@@ -22,4 +22,4 @@ A modern portfolio project for a Quantitative Analyst in the crypto space. This 
 
 ---
 
-**Showcase your quant skills with a beautiful, fully English dashboard!**
+**⚠️ Note: All data shown are mock/dummy values for demonstration purposes only. No real API subscription is used.**
