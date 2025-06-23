@@ -23,7 +23,6 @@ A modern portfolio project for a Quantitative Analyst in the crypto space. This 
 - TypeScript
 
 ---
-
 **⚠️ Note: All data shown are mock/dummy values for demonstration purposes only. No real API subscription is used.**
 
 ---
