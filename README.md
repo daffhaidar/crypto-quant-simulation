@@ -32,7 +32,7 @@ A modern portfolio project for a Quantitative Analyst in the crypto space. This 
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/crypto-quant-dashboard.git
+   https://github.com/daffhaidar/crypto-quant-simulation.git
    cd crypto-quant-simulation
    ```
 2. **Install dependencies:**
